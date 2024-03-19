@@ -1,10 +1,8 @@
 # <img src="https://github.com/YourUsername/YourRepository/blob/main/assets/logo.gif" width="30px"> Microservices Playground - MovieStar
 
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/YourUsername/YourRepository)
-![GitHub last commit](https://img.shields.io/github/last-commit/YourUsername/YourRepository)
-![GitHub issues](https://img.shields.io/github/issues/YourUsername/YourRepository)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/YourUsername/YourRepository)
-![GitHub](https://img.shields.io/github/license/YourUsername/YourRepository)
+![GitHub release (latest by date)](https://img.shields.io/github/1/release/mmkhairullah/demo-microservices)
+![GitHub last commit](https://img.shields.io/github/last-commit/mmkhairullah/demo-microservices)
+![GitHub issues](https://img.shields.io/github/issues/mmkhairullah/demo-microservices)
 
 ## 📝 Description 
 Initially as demo and I will add more features for me to learn. 
